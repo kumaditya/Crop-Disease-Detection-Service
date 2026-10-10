@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Model files
+models/*.pth
+
+# Temporary test files
+test_leaf.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
